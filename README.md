@@ -11,3 +11,5 @@ Compatibilidade de Funções: Garante que dois jogadores da mesma rota não caia
 Reputação e Fair Play: Prioriza a sinergia comportamental e o respeito mútuo em vez de olhar apenas para o elo bruto 📈🤝.
 
 Segurança e Proteção: Oferece filtros exclusivos (como os de gênero e perfis verificados) para blindar jogadoras e usuários contra o assédio gerado pelo anonimato nas filas automáticas 🛡️🔒.
+
+Acesse o site aqui: https://manurpss.github.io/teamupsite/
