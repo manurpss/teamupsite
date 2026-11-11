@@ -1,0 +1,20 @@
+{
+  "id": "./index.html",
+  "name": "Team Up — joga junto, joga melhor",
+  "short_name": "Team Up",
+  "description": "Encontre seu duo perfeito antes da fila.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050508",
+  "theme_color": "#050508",
+  "categories": ["games", "social"],
+  "icons": [
+    { "src": "team-up-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "team-up-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "team-up-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "team-up-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
